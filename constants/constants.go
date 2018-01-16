@@ -1,7 +1,7 @@
+package constants
+
 // Go supports _constants_ of character, string, boolean,
 // and numeric values.
-
-package constants
 
 import "fmt"
 import "math"
