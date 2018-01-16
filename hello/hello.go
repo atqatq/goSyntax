@@ -1,9 +1,9 @@
+// Our first program will print the classic "hello world"
+// message. Here's the full source code.
 package hello
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func main() {
-	fmt.Println("Hello, World!")
+	fmt.Println("hello world")
 }
